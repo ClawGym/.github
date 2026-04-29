@@ -26,7 +26,7 @@ ClawGym supports the full lifecycle of personal-agent development. It first cons
 
 Based on these synthesized tasks, we collect interaction trajectories through black-box rollouts and use them to train a family of capable Claw-style models, termed **ClawGym-Agents**. We further explore reinforcement learning (RL) through a lightweight sandbox-parallel pipeline, supports both Docker-based and Docker-free backends, and learns directly from outcome rewards.
 
-To support reliable evaluation, we build **ClawGym-Bench**, a **200-instance benchmark** calibrated through automated filtering and human-LLM review.
+To support reliable evaluation, we build **ClawGym-Bench**, a **benchmark of 200 instances** calibrated through automated filtering and human-LLM review.
 
 
 
@@ -58,7 +58,7 @@ We perform multi-turn SFT on Qwen3-series backbones and obtain **ClawGym-4B**, *
 
 ## 🧪 ClawGym-Bench
 
-**ClawGym-Bench** is a **200-task** diagnostic benchmark for Claw-style agents. Each task contains a user instruction, mock workspace resources, and a task-specific verifier.
+**ClawGym-Bench** is a diagnostic benchmark of 200 instances for Claw-style agents. Each task contains a user instruction, mock workspace resources, and a task-specific verifier.
 
 - **156** tasks use code-based verification.
 - **44** tasks use hybrid verification, combining code checks with rubric-based judgment.
@@ -98,6 +98,6 @@ We sincerely thank these projects for their valuable insights and high-quality i
 ```
 
 ## 📞 Contact
-For any questions or feedback, please reach out to us at [baifei@ruc.edu.cn](baifei@ruc.edu.cn), [songhuatong123@ruc.edu.cn](songhuatong123@ruc.edu.cn), [sunshuang@ruc.edu.cn](sunshuang@ruc.edu.cn).
+For any questions or feedback, please reach out to us at [feibai@ruc.edu.cn](feibai@ruc.edu.cn), [songhuatong123@ruc.edu.cn](songhuatong123@ruc.edu.cn), [sunshuang@ruc.edu.cn](sunshuang@ruc.edu.cn).
 
 
