@@ -3,8 +3,8 @@
 <h1 align="center">ClawGym: A Scalable Framework for Building Effective Claw Agents</h1>
 
 <div align="center">
-<a href="https://huggingface.co/"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?color=8A2BE2"></a>
-<a href="https://arxiv.org" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a>
+<a href="https://huggingface.co/papers/2604.26904"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?color=8A2BE2"></a>
+<a href="https://arxiv.org/abs/2604.26904" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a>
 </div>
 
 
@@ -101,6 +101,6 @@ We sincerely thank these projects for their valuable insights and high-quality i
 ```
 
 ## 📞 Contact
-For any questions or feedback, please reach out to us at [feibai@ruc.edu.cn](feibai@ruc.edu.cn), [songhuatong123@ruc.edu.cn](songhuatong123@ruc.edu.cn), [sunshuang@ruc.edu.cn](sunshuang@ruc.edu.cn).
+For any questions or feedback, please reach out to us at [feibai@ruc.edu.cn](feibai@ruc.edu.cn), [songhuatong123@ruc.edu.cn](songhuatong123@ruc.edu.cn), [sunshuang@ruc.edu.cn](sunshuang@ruc.edu.cn), [daixuancheng6@gmail.com](daixuancheng6@gmail.com).
 
 
