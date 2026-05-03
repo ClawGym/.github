@@ -89,14 +89,11 @@ We sincerely thank these projects for their valuable insights and high-quality i
 ## 📄 Citation
 
 ```bibtex
-@misc{bai2026clawgymscalableframeworkbuilding,
-      title={ClawGym: A Scalable Framework for Building Effective Claw Agents}, 
-      author={Fei Bai and Huatong Song and Shuang Sun and Daixuan Cheng and Yike Yang and Chuan Hao and Renyuan Li and Feng Chang and Yuan Wei and Ran Tao and Bryan Dai and Jian Yang and Wayne Xin Zhao},
-      year={2026},
-      eprint={2604.26904},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2604.26904}, 
+@article{bai2026clawgym,
+  title={ClawGym: A Scalable Framework for Building Effective Claw Agents},
+  author={Bai, Fei and Song, Huatong and Sun, Shuang and Cheng, Daixuan and Yang, Yike and Hao, Chuan and Li, Renyuan and Chang, Feng and Wei, Yuan and Tao, Ran and others},
+  journal={arXiv preprint arXiv:2604.26904},
+  year={2026}
 }
 ```
 
