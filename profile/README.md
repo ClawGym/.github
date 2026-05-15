@@ -100,6 +100,8 @@ Our goal is to provide a transparent and reproducible foundation for building an
 
 Our implementation builds upon the excellent codebases of [slime](https://github.com/THUDM/slime), [OpenClaw](https://github.com/openclaw/openclaw), [OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL), [PinchBench](https://pinchbench.com/), [OpenRLHF](https://github.com/openrlhf/openrlhf) and [Megatron-LM](https://github.com/nvidia/megatron-lm). 
 
+ClawGym's data synthesis, benchmark, and SFT training were carried out in collaboration with iQuest Research, and the same codebase is also available [here](https://github.com/IQuestLab/clawgym).
+
 We sincerely thank these projects for their valuable insights and high-quality implementations, which have greatly facilitated our research.
 
 
