@@ -86,20 +86,15 @@ We evaluate ClawGym-Agents on **ClawGym-Bench** and **PinchBench**. The main res
 Our goal is to provide a transparent and reproducible foundation for building and evaluating Claw-style personal agents. We plan to release the code and data in several stages:
 
 ### Stage 1 — ClawGym-Bench & Evaluation
-✅ ClawGym-Bench data
-
-✅ Evaluation code
-
-✅ ClawGym-Agents checkpoints
+- ✅ ClawGym-Bench data
+- ✅ Evaluation code
+- ✅ ClawGym-Agents checkpoints
 
 ### Stage 2 — Training & Data Synthesis
-✅ Training data
-
-✅ SFT code
-
-✅ RL code
-
-⬜ Data synthesis pipeline code
+- ✅ Training data
+- ✅ SFT code
+- ✅ RL code
+- ⬜ Data synthesis pipeline code
 
 ## 🙏 Acknowledgements
 
