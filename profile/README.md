@@ -17,6 +17,9 @@
 ## ✨ News
 
 - **[2026.05.01]** 🚀 We release **Claw Series Part I**: **ClawGym**, our first work on scalable data synthesis, training, and evaluation for Claw-style agents.
+- **[2026.05.15]** 🔥 We release [ClawGym-Bench](https://github.com/ClawGym/ClawGym-Bench), including the benchmark data and evaluation script.
+- **[2026.05.15]** 🔥 We release [ClawGym-Agents](https://github.com/ClawGym/ClawGym-Agents), including our 13.5K synthesized tasks and 24.5K training trajectories, with corresponding SFT and RL training code.
+- **[2026.05.15]** 🔥 We release our SFT checkpints: [ClawGym-4B](https://huggingface.co/RUC-AIBOX/ClawGym-4B), [ClawGym-8B](https://huggingface.co/RUC-AIBOX/ClawGym-8B), and [ClawGym-30A3](https://huggingface.co/RUC-AIBOX/ClawGym-30A3).
 
 ## 💡 Overview
 
@@ -78,6 +81,19 @@ We evaluate ClawGym-Agents on **ClawGym-Bench** and **PinchBench**. The main res
 <p align="center">
   <img src="../assets/benchmark_For_clawgym.png" width="480" alt="overall"/>
 </p>
+
+## 🎯 Release Plan
+Our goal is to provide a transparent and reproducible foundation for building and evaluating Claw-style personal agents. We plan to release the code and data in several stages:
+Stage 1 — ClawGym-Bench & Evaluation
+✅ ClawGym-Bench data
+✅ Evaluation code
+✅ ClawGym-Agents checkpoints
+
+Stage 2 — Training & Data Synthesis
+✅ Training data
+✅ SFT code
+✅ RL code
+⬜ Data synthesis pipeline code
 
 ## 🙏 Acknowledgements
 
