@@ -87,13 +87,18 @@ Our goal is to provide a transparent and reproducible foundation for building an
 
 ### Stage 1 — ClawGym-Bench & Evaluation
 ✅ ClawGym-Bench data
+
 ✅ Evaluation code
+
 ✅ ClawGym-Agents checkpoints
 
 ### Stage 2 — Training & Data Synthesis
 ✅ Training data
+
 ✅ SFT code
+
 ✅ RL code
+
 ⬜ Data synthesis pipeline code
 
 ## 🙏 Acknowledgements
