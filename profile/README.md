@@ -16,8 +16,8 @@
 
 ## ✨ News
 - **[2026.05.15]** 🔥 We release [ClawGym-Bench](https://github.com/ClawGym/ClawGym-Bench), including the benchmark data and evaluation script.
-- **[2026.05.15]** 🔥 We release [ClawGym-Agents](https://github.com/ClawGym/ClawGym-Agents), including our 13.5K synthesized tasks and 24.5K training trajectories, with corresponding SFT and RL training code.
-- **[2026.05.15]** 🔥 We release our SFT checkpints: [ClawGym-4B](https://huggingface.co/RUC-AIBOX/ClawGym-4B), [ClawGym-8B](https://huggingface.co/RUC-AIBOX/ClawGym-8B), and [ClawGym-30A3](https://huggingface.co/RUC-AIBOX/ClawGym-30A3).
+- **[2026.05.15]** 🔥 We release [ClawGym-SynData](https://github.com/ClawGym/ClawGym-SynData), including our 13.5K synthesized tasks and 24.5K training trajectories.
+- **[2026.05.15]** 🔥 We release [ClawGym-Agents](https://github.com/ClawGym/ClawGym-Agents), including our model checkpoints: [ClawGym-4B](https://huggingface.co/RUC-AIBOX/ClawGym-4B), [ClawGym-8B](https://huggingface.co/RUC-AIBOX/ClawGym-8B), and [ClawGym-30A3](https://huggingface.co/RUC-AIBOX/ClawGym-30A3), with corresponding SFT and RL training code.
 - **[2026.05.01]** 🚀 We release **Claw Series Part I**: **ClawGym**, our first work on scalable data synthesis, training, and evaluation for Claw-style agents.
 
 
