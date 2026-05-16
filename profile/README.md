@@ -10,8 +10,6 @@
 
 **ClawGym** is a scalable framework for synthesizing data, training agents, and evaluating Claw-style personal agents in local, stateful workspaces. 👨‍💻
 
-> ⚠️ Code, datasets, benchmark assets, and model checkpoints are currently under internal company review and will be released soon. 🙏
-
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 ## ✨ News
