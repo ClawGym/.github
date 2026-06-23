@@ -92,7 +92,7 @@ Our goal is to provide a transparent and reproducible foundation for building an
 - ✅ Training data
 - ✅ SFT code
 - ✅ RL code
-- ⬜ Data synthesis pipeline code
+- ✅ Data synthesis pipeline code
 
 ## 🙏 Acknowledgements
 
