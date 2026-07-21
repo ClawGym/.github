@@ -10,7 +10,7 @@
 
 **ClawGym** is a scalable framework for synthesizing data, training agents, and evaluating Claw-style personal agents in local, stateful workspaces. 👨‍💻
 
-This project is developed by [RUC AIBox](https://github.com/RUCAIBox).
+This project is developed by [RUC AI Box](https://github.com/RUCAIBox).
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
