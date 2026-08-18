@@ -15,6 +15,7 @@ This project is developed by [RUC AI Box](https://github.com/RUCAIBox).
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 ## ✨ News
+- **[2026.05.01]** 🚀 We release **Claw Series Part II**: [**ClawGym II: Exploring Black-Box RL on Agent Harness**](https://arxiv.org/pdf/2608.16798), a unified framework for RL on general agent tasks directly through complex, black-box agent harnesses such as OpenClaw and Claude Code.
 - **[2026.05.15]** 🔥 We release [ClawGym-Bench](https://github.com/ClawGym/ClawGym-Bench), including the benchmark data and evaluation script.
 - **[2026.05.15]** 🔥 We release [ClawGym-SynData](https://github.com/ClawGym/ClawGym-SynData), including our 13.5K synthesized tasks and 24.5K training trajectories.
 - **[2026.05.15]** 🔥 We release [ClawGym-Agents](https://github.com/ClawGym/ClawGym-Agents), including our model checkpoints: [ClawGym-4B](https://huggingface.co/RUC-AIBOX/ClawGym-4B), [ClawGym-8B](https://huggingface.co/RUC-AIBOX/ClawGym-8B), and [ClawGym-30A3](https://huggingface.co/RUC-AIBOX/ClawGym-30A3), with corresponding SFT and RL training code.
