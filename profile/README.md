@@ -116,6 +116,14 @@ We sincerely thank these projects for their valuable insights and high-quality i
   year={2026}
 }
 ```
+```bibtex
+@article{song2026clawgym,
+  title={ClawGym II: Exploring Black-Box RL on Agent Harness},
+  author={Song, Huatong and Bai, Fei and Yang, Ming and Li, Renyuan and Deng, Jia and He, Jujie and Zhang, Zhange and Cheng, Daixuan and Xing, Yan and Yun, Qi and others},
+  journal={arXiv preprint arXiv:2608.16798},
+  year={2026}
+}
+```
 
 ## 📞 Contact
 For any questions or feedback, please reach out to us at [feibai@ruc.edu.cn](feibai@ruc.edu.cn), [songhuatong123@ruc.edu.cn](songhuatong123@ruc.edu.cn), [sunshuang@ruc.edu.cn](sunshuang@ruc.edu.cn), [daixuancheng6@gmail.com](daixuancheng6@gmail.com).
